@@ -101,7 +101,7 @@ section.servico > .container .box-servico:nth-of-type(1),section.servico > .cont
     width: 30%;
     padding: 30px 2%;
     background-color: #576975;
-    background-image: url(../images/icone_dente.png);
+    background-image: url(icone_dente.png);
     background-size: 18px 18px;
     background-position: center calc(100% - 5px);
     background-repeat: no-repeat;
@@ -158,7 +158,7 @@ section.perfil-container  .perfil-wrapper2{
 section.perfil-container .img-perfil{
     width: 40%;
     height: 100%;
-    background-image: url(../images/img_perfil.png);
+    background-image: url(img_perfil.png);
     background-size: 100% 100%;
     
 }
@@ -522,7 +522,7 @@ footer.container{
         margin-left: 50px;
         display: inline-block;
         height: auto;
-        background-image: url(../images/img_perfil.png);
+        background-image: url(img_perfil.png);
         background-size: 100% 100%;
         
     }
